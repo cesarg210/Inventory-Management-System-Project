@@ -1,0 +1,45 @@
+# ----------------------
+# C++ object and binary files
+# ----------------------
+*.o
+*.obj
+*.so
+*.a
+*.dylib
+*.exe
+*.out
+
+# ----------------------
+# Build directories
+# ----------------------
+build/
+bin/
+Debug/
+Release/
+
+# ----------------------
+# Qt generated files
+# ----------------------
+*.moc
+*.qrc
+*.ui
+Makefile
+*.pro.user
+*.pro.user.*
+*.qmake.stash
+*.qmake.cache
+
+# ----------------------
+# macOS system files
+# ----------------------
+.DS_Store
+*.DS_Store
+*.AppleDouble
+.LSOverride
+
+# ----------------------
+# IDE / Editor files
+# ----------------------
+.vscode/
+.idea/
+*.swp

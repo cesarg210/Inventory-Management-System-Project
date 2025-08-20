@@ -1,0 +1,14 @@
+ProductID,ProductName,SupplierID,SupplierName
+102,Monitors,201,Global Tech Supplies
+103,Desks,202,Evergreen Manufacturing
+202,Brakes,203,Pinnacle Parts Co.
+203,EngineOil,203,Pinnacle Parts Co.
+501,CottonFabric,204,Skyline Textiles
+502,PolyesterFabric,204,Skyline Textiles
+1201,Motherboards,205,NovaTech Solutions
+1301,NetworkingEquipment,205,NovaTech Solutions
+1202,Processors,205,NovaTech Solutions
+701,Drills,206,Titan Wholesale
+703,PowerTools,206,Titan Wholesale
+601,DoorLocks,207,Reliable Trade Partners
+602,Hinges,207,Reliable Trade Partners
